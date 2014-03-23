@@ -5,10 +5,10 @@ An update of http://fffff.at/auto-smiley/
 
 Tested with 0.8.1+ on OSX.
 
-To install:
+The Original AutoSmiley is an example now.
 
-- `cd $OF_ROOT/apps/`
-- `git clone https://github.com/olab-io/AutoSmiley.git`
-- `cd AutoSmiley`
-- Open and compile project file.
-- Smile, hack.
+### TODO
+- Update the smile finder to find multiple faces / smiles, locate eyes, etc.  This can be done by iterating through the faces in `ofxSmile::getSmile()` and returning data for each of them.
+
+### Note
+- https://github.com/kylemcdonald/ofxFaceTracker may be a better option for your project.
