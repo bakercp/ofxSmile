@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:AutoSmiley.xcodeproj">
+      location = "self:example-AutoSmiley.xcodeproj">
    </FileRef>
 </Workspace>
