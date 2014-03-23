@@ -1,0 +1,26 @@
+.svn
+
+.AppleDouble
+#bin
+obj
+
+*.mode1v3
+
+# xcode
+*.pbxuser
+*.perspectivev3
+xcuserdata
+build
+*.app
+#*.a
+
+# OSX
+.DS_Store
+
+# codeblocks
+*.layout
+example/obj
+
+# Win
+*.exe
+*.dll
