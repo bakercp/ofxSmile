@@ -1,7 +1,7 @@
 AutoSmiley
 ==========
 
-An update of http://fffff.at/auto-smiley/
+An update to http://fffff.at/auto-smiley/
 
 Tested with 0.8.1+ on OSX.
 
