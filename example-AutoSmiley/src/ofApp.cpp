@@ -22,6 +22,8 @@ void ofApp::setup()
 void doSmily()
 {
 
+#if defined(TARGET_OSX)
+
 	//from http://74.125.47.132/search?q=cache:OtbdKJ8MQToJ:www.realsoftware.com/listarchives/realbasic-nug/2001-11/msg01823.html+CGKeyCode+shift&cd=2&hl=en&ct=clnk&gl=us&client=safari
 	//codes from - http://ritter.ist.psu.edu/projects/RUI/macosx/rui.c
 	
@@ -57,6 +59,9 @@ void doSmily()
 //	CFRelease(saveCommandUp);
 //	CFRelease(saveCommandDown);
 //	CFRelease(source);
+
+#endif
+
 }
 
 
