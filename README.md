@@ -9,6 +9,7 @@ The Original AutoSmiley is an example now.
 
 ### TODO
 - Update the smile finder to find multiple faces / smiles, locate eyes, etc.  This can be done by iterating through the faces in `ofxSmile::getSmile()` and returning data for each of them.
+- Typedef conflicts (`LONG`, `DWORD`, etc conflict w/ FreeImage types).
 
 ### Note
 - https://github.com/kylemcdonald/ofxFaceTracker may be a better option for your project.
