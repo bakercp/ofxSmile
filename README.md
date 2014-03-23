@@ -1,4 +1,4 @@
-AutoSmiley
+ofxSmile
 ==========
 
 An update to http://fffff.at/auto-smiley/
